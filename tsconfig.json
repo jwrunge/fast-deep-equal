@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "lib": ["WebWorker", "dom", "ESNext"],
+      "skipLibCheck": true,
+      "module": "ESNext",
+      "target": "ESNext",
+      "useDefineForClassFields": true,
+      "strict": true,
+      "moduleResolution": "bundler",
+      "moduleDetection": "force",
+      "noEmit": false
+    },
+    "files": ["src/index.ts"]
+}
